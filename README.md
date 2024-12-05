@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Rezaul Islam
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BC+%2C+I'm+Rezaul+Islam)](https://github.com/rezaulislamtarek)
 
