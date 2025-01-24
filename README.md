@@ -8,7 +8,7 @@
 - 🔭 Currently, I'm working as a Mobile Application Developer (iOS) at [Doctime](https://doctime.com.bd/)
 - 🌱 I’m currently learning advanced iOS development and exploring new SwiftUI features
 - 💬 Ask me about iOS Development, Android Development, Programming Languages, Database, Algorithm, and Data Structures
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love outdoor games like cricket and football
 - 👯 I’m looking to collaborate with other developers and share knowledge
 
